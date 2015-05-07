@@ -12,9 +12,9 @@ Consultant. Founder of I.TV and Orbital Labs. I help clients create quality prod
 
 My expertise:
 
-* Mentor and train teams in new technologies
 * Create and ship products
 * Explore ideas and prototype
+* Mentor and train teams in new technologies
 * Advisory board
 
 Introduction
@@ -57,8 +57,8 @@ Why is technical debt bad?
 
 Eventually your product owns you, your time, and your creative output. Loss of freedom to create.
 
-Finances: Debt <==> Savings
--------------------
+Let's talk about Finances
+-------------------------
 
 Debt results in a loss of freedom.
 
@@ -80,7 +80,7 @@ Financial Independence
 Technical Debt
 --------------
 
-What is the equivalent of debt in a tech company?
+What is it like to be in debt?
 
 - That feature is going to take 2 months, because we have to rejigger the whatzits.
 - Every time I change anything, something else breaks!
@@ -91,94 +91,118 @@ What is the equivalent of debt in a tech company?
 Technical Investment
 --------------------
 
-****** 
+What is it like to have investments paying off?
 
-What is the equivalent of investment?
+- Sure I can add that feature! I'll just leverage that open source library we made
+- Yeah, our deploys are all automatic. If something goes wrong the system rolls it back.
+- It feels like we just keep moving faster and faster
 
-- New technology
-- New approaches
+You can't afford not to invest
+------------------------------
 
-You can't afford not to explore
--------------------------------
+What happens when a government invests in infrastructure? What happens when they stop?
 
-- It's like transportation investment. Building an international airport or a train system. The Environment.
-- be more autonomous?
+![Train](grasstram-ed03.jpg)
+
+Practical Considerations
+
 - your progress WILL slow down dramatically over time
 - brain drain: lose smart, curious people.
-- Keep moving forward. Keep things fixed / done.
 
 My Stories
 ----------
 
-  - my first job: wasn't enough work, so I started playing around. Learned some PERL. Sweet. I made a tool ... what did I even make? I don't remember. Something. I was supposed to create online courses. I made something that did my work for me. Then I got hired to do that all the time. I made a tool that created multiple course formats from one source document. Obvious in hindsight, but they employed tons of people. Cut huge amounts of work out.
+My first job. Made something that did the work for me. Hired later to do only that. Automation.
 
-  - another story: I am a consultant. Between contracts, I build things. I explore. A few years ago I started learning Haskell. It's thought of as this obscure niche language (it's not), but it taught me things I had never thought of. Geeked out about type systems. Learned Typescript. Used Typescript very early on an angular project. Worked with a team of 3 people. Delivered a whole product and team in <9 months. Several large pivots in the middle. Able to make changes quickly. All possible because I was curious about something years earlier.
-
-- Devops. So lame. Spend time learning and get ops off your plate.?
+Learning between consulting. Geeking out about Haskell and type systems.
 
 Awesome right? Let's make a startup!
 ------------------------------------
-It's always the same story.
-- Hack weeks
-- Choose your technology
-It's a good "idea"
-Sacrificed! "Well, maybe after we ship X."
 
-This always happens
--------------------
+A familiar story.
 
-- I.TV - trying to do developer week and failing. We always put it off. Sacrificed it, because we had something to ship.
-- they always think of hack weeks. "An actual product came out of it"
-- We advertised it when we recruited "We're hip! We have dev week!"
-- let's do dev day instead.
-- it never happend
-- we never shipped
-- we were sad, depressed, ground down, death march.
+<img src="office.jpg" width="500">
+
+- Open floor plan
+- The coolest technology
+- Espresso machine and foosball table
+- Hack weeks. Great idea!
+
+Look out! Here come deadlines!
+------------------------------
+
+"I'm also gonna need you to go ahead and come in on Sunday too"
+
+<img src="office-space.jpg" width="500">
+
+"Well, maybe after you finish your TPS reports"
+
+No matter how cool you set out to be
+-----------------------------------------------
+
+Story: At I.TV we created "Developer Week".
+- self driven
+- really believed in it
+- used it to recruit
+
+"Well, we can do it after we ship in March"
 
 Not How: Asking for permission
 ------------------------
-- Bug your boss until he lets you have hack week.
-Why not? Because he thinks of it as a soft benefit. As play. It IS fun, bu that's not the point. I guarnatee he'll sacrifice it later because "You can play when your chores are done."
-Maybe he'll think "Oh a cool product might come out of hack week".
 
-- Ask for permission to refactor. "We need to switch to ruby 2.0". "Can we do it later"? It builds up. Now you HAVE to ask for permission
+Bug your boss until he lets you have hack week.
+- It sounds like play.
+- Maybe he thinks a product will come out of hack week
+
+Ask for permission to refactor.
+- "We need to switch to ruby 3.0".
+- "Let's do it later"? It builds up.
 
 This is a part of your craft
 ----------------------------
 
+<img src="craftsman.jpg" width="500">
+
 It's not your bosses job. It's yours. You need to deliver on time AND keep exploring.
 
-Even if he understands it, he doesn't care about it like you do. It's YOUR craft. Own it.
+Even if he understands it, he doesn't care about it the same way you do.
 
-How: Ship every week
---------------------
+It's YOUR craft. Own it.
 
-What does your boss want? He wants to deliver value to the customers.
-It goes both ways: deliver something every week
+How: Understand your business
+-----------------------------
 
-- STORY: ????
+Learn what matters in your business so you can deliver it.
 
-How: Explore every week
-----------------------
+Deserve to be autonomous.
+
+How: Ship and Explore every week
+--------------------------------
+
+Deliver something of value every week.
 
 Fill the space with exploration. Ahead of schedule to ship this week? Try out that approach you read about!
 
 Behind schedule? Ship something, but spend less time.
 
-Investments pay off over time.
-
 How: Coding best practices
 --------------------------
-Composition
-Write stuff that does your work for you. Toolbox. Composition.
-Functional. Small tools
-Simple refactoring
-Don't build an massive engine of desctruction. Build tools.
+
+<img src="legos.jpg" width="500">
+
+Invent small. Composition. Don't create an massive engine of desctruction. Create legos.
+- easy refactoring
+- easy to put them together.
+
+Safety. Type systems. Tests.
+
+Learn! Be wise.
 
 When: Start now!
 ----------------
 
-There will always be a deadline. You will NEVER have more time.
+There will always be a deadline. You will NEVER have more time than now.
 
+Investments pay off over time.
 
 
