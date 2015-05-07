@@ -4,7 +4,7 @@ How to refactor, experiment, and innovate on a deadline.
 About Me
 ----------
 
-Consultant. Founder of I.TV and Orbital Labs. I help clients create quality products quickly.
+Consultant. Founder of I.TV and Orbital Labs. I help clients make things.
 
 * [@seanhess](http://twitter.com/seanhess)
 * [http://seanhess.github.io](http://seanhess.github.io)
